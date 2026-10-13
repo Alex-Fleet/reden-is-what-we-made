@@ -68,7 +68,7 @@ RVC 引用（RVC Reference）可以帮你放置一个切片的「引用」，当
 ## RDebugger
 > 开发中
 
-微时序分析与模拟：方块更新断点（NC、PP、CU、BE），BED 调试器，逐次更新，逐刻推进，更新重置
+微时序分析与模拟：方块更新断点（NC、PP、CU、BE），BED 调试器，逐步更新，逐步刻，更新重置
 
 ### RVC 与 RDebugger 配合
 
